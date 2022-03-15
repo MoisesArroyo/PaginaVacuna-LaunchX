@@ -1,5 +1,5 @@
 # PaginaVacuna-LaunchX
 
-Practica del programa LaunchX Innovacción virtual
+Practica del programa LaunchX Innovación virtual
 
 Autor: Moisés Isaí Arroyo Rodríguez
